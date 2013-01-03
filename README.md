@@ -1,6 +1,6 @@
 LogIMU : IMU for Maple Mini (ITG3200, ADXL345, MAG3110, BMP085)
 ======
-Ce projet est une centrale inertielle basée sur une Maple Mini
+Ce projet est une centrale inertielle basée sur une Maple Mini, réalisée dans le cadre du TIPE 2012-13 pour les concours aux grandes écoles scientifique en filière PSI.
 Toutes les librairies qu'il contient fonctionnent tout à fait sur la Mini :
  - ADXL345
  - ITG3200
