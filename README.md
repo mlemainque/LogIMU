@@ -15,7 +15,7 @@ Vous pouvez voir une démonstration ici : http://www.youtube.com/watch?v=07O4mFs
 
 
 This project is an IMU made with a Maple Mini.
-All the libraries I wrote are ready to use with a Mini :
+All the libraries it uses works perfectly with a Mini :
  - ADXL345
  - ITG3200
  - MAG3110
